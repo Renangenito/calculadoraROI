@@ -1,0 +1,131 @@
+﻿@model CalculadoraROI.Models.Calculadora
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="row d-flex justify-content-end">
+    <div class="col-md-4 rounded p-5" style="background-color: #ffffff;">
+        <h5 class="fw-bold">Calculadora - ROI</h5>
+        <p class="fw-bold" style="color: #938f8f; font-size: 0.8em; ">Preencha os campos abaixo e nosso time entrará em contato enviando o cálculo via email:</p>
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group">
+            <label asp-for="Id" class="control-label"></label>*@
+            <input asp-for="Id" class="form-control border-0" style="background-color: #f6f6f6;" hidden />
+            @*    <span asp-validation-for="Id" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <input asp-for="Nome" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <input asp-for="Email" type="email" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empresa" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <input asp-for="Empresa" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+                <span asp-validation-for="Empresa" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+            <label asp-for="Segmento" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+            <input asp-for="Segmento" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+            <span asp-validation-for="Segmento" class="text-danger"></span>
+            </div>*@
+            <div class="form-group d-flex flex-column">
+                <label asp-for="Segmento" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <select asp-for="Segmento" class="border-0 p-0 mb-3" style="background-color: #f6f6f6; outline: 0; color: #666666;">
+                    <option disabled selected value="segmento">Selecione</option>
+                    <option value="Financeiro">Financeiro</option>
+                    <option value="Varejo">Varejo</option>
+                    <option value="Digital">Digital</option>
+                    <option value="Corban">Corban</option>
+                    <option value="Motor">Motor</option>
+                    <option value="Outros">Outros</option>
+                </select>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="AreaAtuacao" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <input asp-for="AreaAtuacao" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+                <span asp-validation-for="AreaAtuacao" class="text-danger"></span>
+            </div>*@
+            <div class="form-group d-flex flex-column">
+                <label asp-for="AreaAtuacao" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <select asp-for="AreaAtuacao" class="border-0 p-0 mb-3" style="background-color: #f6f6f6; outline: 0; color: #666666;">
+                    <option disabled selected value="Área de Atuacao">Selecione</option>
+                    <option value="AC">AC</option>
+                    <option value="AL">AL</option>
+                    <option value="AM">AM</option>
+                    <option value="AP">AP</option>
+                    <option value="BA">BA</option>
+                    <option value="CE">CE</option>
+                    <option value="DF">DF</option>
+                    <option value="ES">ES</option>
+                    <option value="GO">GO</option>
+                    <option value="MA">MA</option>
+                    <option value="MG">MG</option>
+                    <option value="MS">MS</option>
+                    <option value="MT">MT</option>
+                    <option value="PA">PA</option>
+                    <option value="PB">PB</option>
+                    <option value="PE">PE</option>
+                    <option value="PI">PI</option>
+                    <option value="PR">PR</option>
+                    <option value="RJ">RJ</option>
+                    <option value="RN">RN</option>
+                    <option value="RS">RS</option>
+                    <option value="RO">RO</option>
+                    <option value="RR">RR</option>
+                    <option value="SC">SC</option>
+                    <option value="SE">SE</option>
+                    <option value="SP">SP</option>
+                    <option value="TO">TO</option>
+                </select>
+            </div>
+            @*<div class="form-group">
+            <label asp-for="Onboarding" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+            <input asp-for="Onboarding" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+            <span asp-validation-for="Onboarding" class="text-danger"></span>
+            </div>*@
+            <div class="form-group d-flex flex-column">
+                <label asp-for="Onboarding" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <select asp-for="Onboarding" class="border-0 p-0 mb-3" style="background-color: #f6f6f6; outline: 0; color: #666666;">
+                    <option disabled selected value="onboarding">Selecione</option>
+                    <option value="Físico + Digital">Físico + Digital</option>
+                    <option value="Físico"> Físico</option>
+                    <option value="Digital">Digital</option>
+                </select>
+            </div>
+            <hr class="mt-4 mb-4"/>
+            <div class="form-group">
+                <label asp-for="ConsultaMes" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <input asp-for="ConsultaMes" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+                <span asp-validation-for="ConsultaMes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TicketMedio" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <input asp-for="TicketMedio" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+                <span asp-validation-for="TicketMedio" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+            <label asp-for="ResultadoRoi" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+            <input asp-for="ResultadoRoi" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+            <span asp-validation-for="ResultadoRoi" class="text-danger"></span>
+            </div>*@
+            @*<div class="form-group">
+                <label asp-for="DataHoraCalculo" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
+                <input asp-for="DataHoraCalculo" class="form-control border-0 p-0 mb-3" style="background-color: #f6f6f6;" />
+                <span asp-validation-for="DataHoraCalculo" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Calcular ROI" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
