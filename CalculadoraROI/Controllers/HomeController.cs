@@ -1,7 +1,6 @@
 ﻿using CalculadoraROI.DataBase;
 using CalculadoraROI.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Options;
 using MySql.Data.MySqlClient;
 using System.Diagnostics;
 using System.Net;
