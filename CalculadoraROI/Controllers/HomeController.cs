@@ -13,6 +13,9 @@ namespace CalculadoraROI.Controllers
 {
     public class HomeController : Controller
     {
+
+        private string mensagem = "";
+
         private readonly ILogger<HomeController> _logger;
         private readonly MySqlConnection _connection;
 
@@ -23,8 +26,13 @@ namespace CalculadoraROI.Controllers
             _connection = connection;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string mensagem = null, bool sucesso = true)
         {
+            if(sucesso)
+                TempData["sucesso"] = mensagem;
+            else
+                TempData["erro"] = mensagem;
+
             return View();
         }
 
@@ -41,18 +49,18 @@ namespace CalculadoraROI.Controllers
                 {
                     decimal x, y;
 
-                    x = ((calculadora.ConsultaMes * Convert.ToDecimal(0.02)) * Convert.ToDecimal(calculadora.TicketMedio)) / (calculadora.ConsultaMes * 3);
-                    y = ((calculadora.ConsultaMes * Convert.ToDecimal(0.03)) * Convert.ToDecimal(calculadora.TicketMedio)) / (calculadora.ConsultaMes * 3);
+                    x = ((calculadora.ConsultaMes * Convert.ToDecimal(0.02)) * Convert.ToDecimal(calculadora.TicketMedio)) / calculadora.ConsultaMes * 3;
+                    y = ((calculadora.ConsultaMes * Convert.ToDecimal(0.03)) * Convert.ToDecimal(calculadora.TicketMedio)) / calculadora.ConsultaMes * 3;
 
-                    calculadora.ResultadoRoi = "Roi: " + x.ToString("C").Replace(".",",") + " e " + y.ToString("C").Replace(".", ",") + " reais";
+                    calculadora.ResultadoRoi = x.ToString("C").Replace(".",",") + " e " + y.ToString("C").Replace(".", ",") + " reais";
 
                     new CalculadoraDB(_connection).Inserir(calculadora);
-                    
+
                     EnviarEmail(calculadora);
                   
 
 
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction(nameof(Index), new { mensagem = "Email enviado com sucesso!", sucesso = true});
 
                 }
                 else
@@ -60,8 +68,9 @@ namespace CalculadoraROI.Controllers
                     return View();
                 }
             }
-            catch
+            catch(Exception ex)
             {
+                TempData["erro"] = "Algum erro aconteceu! - " + ex.Message;
                 return View();
             }
         }
@@ -110,14 +119,13 @@ namespace CalculadoraROI.Controllers
 
         private string EmailBoasVindas(string nome, string roi)
         {
-
             StringBuilder sb = new StringBuilder();
-            sb.Append($"<p>Hola, muito obrigado por utilizar a Calculadora ROI da <b>Acertpix.</b></p>");
-            sb.Append($"<p>Parabéns <b>{nome},</b></p>");
-            sb.Append($"<p>Estamos muito felizes por você a nossa ferramenta.</p>");
+            sb.Append($"<p>Olá, {nome}.</b></p>");
+            sb.Append($"<p>Tudo bem? Espero que sim :)</b></p>");
+            sb.Append($"<p>Muito obrigado por utilizar a Calculadora ROI da <b>Acertpix.</b></p>");
             sb.Append($"<h1>Aqui está o resultado do cálculo do ROI que é entre: <b>{roi}</b>.</h1>");
             sb.Append($"<br>");
-            sb.Append($"<p>Grande abraço</p>");
+            sb.Append($"<p>Grande abraço.</p>");
             return sb.ToString();
         }
 

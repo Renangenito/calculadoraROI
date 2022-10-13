@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Renan\Desktop\Calculadora-ROI\CalculadoraROI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Renan/Desktop/Calculadora-ROI/CalculadoraROI/Views/Calculadora/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYWRvcmFcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Renan/Desktop/Calculadora-ROI/CalculadoraROI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

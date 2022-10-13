@@ -1,4 +1,16 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿
+jQuery(function ($) {
+    $("#money").inputmask('currency', {
+        "autoUnmask": true,
+        radixPoint: ",",
+        groupSeparator: ".",
+        allowMinus: false,
+        prefix: 'R$ ',
+        digits: 0,
+        digitsOptional: false,
+        rightAlign: false,
+        unmaskAsNumber: true,
+        removeMaskOnSubmit: true
+    });
+});
 
-// Write your JavaScript code.

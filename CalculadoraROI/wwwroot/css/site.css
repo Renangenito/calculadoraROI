@@ -23,7 +23,8 @@ header {
     padding: 5em 0 30% 0;
 }
 body {
-    background-color: #34bbc4;
+    /*background-color: #34bbc4;*/
+    background-color: #1F1E71;
     height: 100%;
     margin: 0;
 }
