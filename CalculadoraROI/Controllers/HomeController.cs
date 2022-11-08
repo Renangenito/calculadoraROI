@@ -52,7 +52,7 @@ namespace CalculadoraROI.Controllers
                     x = ((calculadora.ConsultaMes * Convert.ToDecimal(0.02)) * Convert.ToDecimal(calculadora.TicketMedio)) / calculadora.ConsultaMes * 3;
                     y = ((calculadora.ConsultaMes * Convert.ToDecimal(0.03)) * Convert.ToDecimal(calculadora.TicketMedio)) / calculadora.ConsultaMes * 3;
 
-                    calculadora.ResultadoRoi = x.ToString("C").Replace(".",",") + " e " + y.ToString("C").Replace(".", ",") + " reais";
+                    calculadora.ResultadoRoi = x.ToString("C").Replace(".",",") + " e " + y.ToString("C").Replace(".", ",");
 
                     new CalculadoraDB(_connection).Inserir(calculadora);
 
@@ -120,12 +120,18 @@ namespace CalculadoraROI.Controllers
         private string EmailBoasVindas(string nome, string roi)
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append($"<p>Olá, {nome}.</b></p>");
-            sb.Append($"<p>Tudo bem? Espero que sim :)</b></p>");
-            sb.Append($"<p>Muito obrigado por utilizar a Calculadora ROI da <b>Acertpix.</b></p>");
-            sb.Append($"<h1>Aqui está o resultado do cálculo do ROI que é entre: <b>{roi}</b>.</h1>");
+            sb.Append($"<p>Olá, <b>{nome}</b>! Tudo bem?</p>");
+            sb.Append($"<p>Que bom ter você por aqui 😊</b></p>");
             sb.Append($"<br>");
-            sb.Append($"<p>Grande abraço.</p>");
+            sb.Append($"<p>O resultado do cálculo do ROI é entre:</p>");
+            sb.Append($"<p><b>{roi} reais.</b></p>");
+            sb.Append($"<br>");
+            sb.Append($"<p>Agrademos por utilizar a nossa ferramenta.</p>");
+            sb.Append($"<br>");
+            sb.Append($"<p>Caso precise de mais alguma informação, acesse:  acertpix.com.br</p>");
+            sb.Append($"<p>Vamos adorar ajudar você!</p>");
+            sb.Append($"<br>");
+            sb.Append($"<p>Até a próxima 😉</p>");
             return sb.ToString();
         }
 

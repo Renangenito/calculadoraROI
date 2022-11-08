@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DMI/fkbqWNIWsP9bG6AKwefjbqZj8LPCbh/SDHmdQkT/ldU158He1VR2djiTgoIWUVhJ5WrTXg7BtJ+icLXl7w==",
+  "dgSpecHash": "D20hd/hEUuOvfgIU5aJeYlvfoepvrliS2+Npxqyvj1uzJt+X5wtcW1d3DwIWcC1drdTD9ZVDxA0ze6kZubX2AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renan\\Desktop\\Calculadora-ROI\\CalculadoraROI\\CalculadoraROI.csproj",
+  "projectFilePath": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\CalculadoraROI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Renan\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

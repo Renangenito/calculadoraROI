@@ -8839,11 +8839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\Calculadora-ROI\\CalculadoraROI\\CalculadoraROI.csproj",
+      "projectUniqueName": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\CalculadoraROI.csproj",
       "projectName": "CalculadoraROI",
-      "projectPath": "C:\\Users\\Renan\\Desktop\\Calculadora-ROI\\CalculadoraROI\\CalculadoraROI.csproj",
+      "projectPath": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\CalculadoraROI.csproj",
       "packagesPath": "C:\\Users\\Renan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renan\\Desktop\\Calculadora-ROI\\CalculadoraROI\\obj\\",
+      "outputPath": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Renan\\AppData\\Roaming\\NuGet\\NuGet.Config",
