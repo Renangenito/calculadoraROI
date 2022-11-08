@@ -1,18 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 html {
-  font-size: 14px;
+    font-size: 14px;
+}
+
+.fonte-estilo-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+.fonte-inter {
+    font-family: 'Inter', sans-serif;
+}
+
+.button-contato {
+    color: #424242;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 15px;
+    height: 39px;
+    width: 162px;
+    border-radius: 5px;
+}
+
+.button-contato:hover {
+    background-color: #1F1E71;
+    color: #FFFFFF;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin: 0;
+    margin: 0;
 }

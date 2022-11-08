@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cjXZVe7rHhZhoZMxOZ0gQPMOBn79CbOiSIoe72zHHL8=",
+  "Hash": "70m6qhcNF3wRAqYERJsq+Qcr69iFnbL0oLS3lmX2NBo=",
   "Source": "CalculadoraROI",
   "BasePath": "_content/CalculadoraROI",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Renan\\Desktop\\Calculadora-ROI\\CalculadoraROI\\wwwroot\\img\\Foto para capa.png",
+      "SourceId": "CalculadoraROI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\Calculadora-ROI\\CalculadoraROI\\wwwroot\\",
+      "BasePath": "_content/CalculadoraROI",
+      "RelativePath": "img/Foto para capa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Foto para capa.png"
     },
     {
       "Identity": "C:\\Users\\Renan\\Desktop\\Calculadora-ROI\\CalculadoraROI\\wwwroot\\js\\site.js",
