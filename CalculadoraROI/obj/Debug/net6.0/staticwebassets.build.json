@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NhzU1VLzsOeoYuke681dEvNnV4fFqpEcksDkpStINRY=",
+  "Hash": "+ydFJf+Tvwb2sOBBLnwmHsd0EjP0+jRsKj+2NLfvDCE=",
   "Source": "CalculadoraROI",
   "BasePath": "_content/CalculadoraROI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CalculadoraROI\\wwwroot",
       "Source": "CalculadoraROI",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CalculadoraROI.styles.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CalculadoraROI.styles.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "CalculadoraROI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CalculadoraROI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CalculadoraROI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CalculadoraROI.bundle.scp.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CalculadoraROI.bundle.scp.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "CalculadoraROI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CalculadoraROI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CalculadoraROI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\css\\calculadora.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\css\\calculadora.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "css/calculadora.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\calculadora.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\css\\site.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\favicon.ico",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\img\\Foto para capa.png",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\img\\Foto para capa.png",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "img/Foto para capa.png",
       "AssetKind": "All",
@@ -119,10 +119,27 @@
       "OriginalItemSpec": "wwwroot\\img\\Foto para capa.png"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\js\\menu-humburgher.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "BasePath": "_content/CalculadoraROI",
+      "RelativePath": "js/menu-humburgher.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\menu-humburgher.js"
+    },
+    {
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\js\\site.js",
+      "SourceId": "CalculadoraROI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\bundle.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\bundle.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/bundle.js",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\bindings\\inputmask.binding.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\bindings\\inputmask.binding.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/dist/bindings/inputmask.binding.js",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\dist\\bindings\\inputmask.binding.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\inputmask.es6.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\inputmask.es6.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/dist/inputmask.es6.js",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\dist\\inputmask.es6.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\inputmask.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\inputmask.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/dist/inputmask.js",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\dist\\inputmask.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\inputmask.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\inputmask.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/dist/inputmask.min.js",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\dist\\inputmask.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\jquery.inputmask.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\jquery.inputmask.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/dist/jquery.inputmask.js",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\dist\\jquery.inputmask.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\jquery.inputmask.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\dist\\jquery.inputmask.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/dist/jquery.inputmask.min.js",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\dist\\jquery.inputmask.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\bindings\\inputmask.binding.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\bindings\\inputmask.binding.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/bindings/inputmask.binding.js",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\bindings\\inputmask.binding.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\bindings\\inputmask.es6.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\bindings\\inputmask.es6.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/bindings/inputmask.es6.js",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\bindings\\inputmask.es6.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\canUseDOM.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\canUseDOM.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/canUseDOM.js",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\canUseDOM.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\defaults.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\defaults.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/defaults.js",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\defaults.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\definitions.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\definitions.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/definitions.js",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\definitions.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\data.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\data.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/dependencyLibs/data.js",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\data.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\events.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\events.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/dependencyLibs/events.js",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\events.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\extend.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\extend.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/dependencyLibs/extend.js",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\extend.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\inputmask.dependencyLib.jquery.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\inputmask.dependencyLib.jquery.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/dependencyLibs/inputmask.dependencyLib.jquery.js",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\inputmask.dependencyLib.jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\inputmask.dependencyLib.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\inputmask.dependencyLib.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/dependencyLibs/inputmask.dependencyLib.js",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\dependencyLibs\\inputmask.dependencyLib.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\environment.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\environment.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/environment.js",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\environment.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\escapeRegex.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\escapeRegex.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/escapeRegex.js",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\escapeRegex.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\eventhandlers.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\eventhandlers.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/eventhandlers.js",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\eventhandlers.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\eventruler.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\eventruler.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/eventruler.js",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\eventruler.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.date.extensions.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.date.extensions.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/extensions/inputmask.date.extensions.js",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.date.extensions.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.extensions.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.extensions.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/extensions/inputmask.extensions.js",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.extensions.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.numeric.extensions.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.numeric.extensions.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/extensions/inputmask.numeric.extensions.js",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\extensions\\inputmask.numeric.extensions.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\global\\window.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\global\\window.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/global/window.js",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\global\\window.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\inputHandling.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\inputHandling.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/inputHandling.js",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\inputHandling.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\inputmask.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\inputmask.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/inputmask.js",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\inputmask.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\inputmaskElement.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\inputmaskElement.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/inputmaskElement.js",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\inputmaskElement.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\jquery.inputmask.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\jquery.inputmask.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/jquery.inputmask.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\jquery.inputmask.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\keycode.json",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\keycode.json",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/keycode.json",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\keycode.json"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\mask.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\mask.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/mask.js",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\mask.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\mask-lexer.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\mask-lexer.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/mask-lexer.js",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\mask-lexer.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\masktoken.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\masktoken.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/masktoken.js",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\masktoken.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\polyfills\\Array.includes.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\polyfills\\Array.includes.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/polyfills/Array.includes.js",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\polyfills\\Array.includes.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\polyfills\\Object.getPrototypeOf.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\polyfills\\Object.getPrototypeOf.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/polyfills/Object.getPrototypeOf.js",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\polyfills\\Object.getPrototypeOf.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\positioning.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\positioning.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/positioning.js",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\positioning.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\validation.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\validation.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/validation.js",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\validation.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\validation-tests.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\lib\\validation-tests.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/lib/validation-tests.js",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\lib\\validation-tests.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\LICENSE.txt",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\LICENSE.txt",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/LICENSE.txt",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\package.json",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\package.json",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/package.json",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\package.json"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\README.md",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\inputmask\\README.md",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/inputmask/README.md",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\inputmask\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CalculadoraROI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renan\\Desktop\\calculadoraROI\\CalculadoraROI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renan\\Desktop\\CalculadoraROI\\CalculadoraROI\\wwwroot\\",
       "BasePath": "_content/CalculadoraROI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

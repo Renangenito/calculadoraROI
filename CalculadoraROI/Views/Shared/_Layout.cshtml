@@ -5,31 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Calculadora ROI</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/calculadora.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/calculadora.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light w-100 p-0 d-flex justify-content-center" style="background-color: #34bbc4;">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light w-100 navbar d-flex justify-content-center" id="header" style="background-color: #34bbc4;">
             <div class="d-flex justify-content-center">
                 <div class=" d-flex align-items-center w-100">
                     <a href="http://acertpix.com.br" class="d-flex" style="width: 210px; height: 101px; padding-top: 24px;">
                         <img class="" width="176" height="43" src="https://acertpix.com.br/wp-content/uploads/2022/06/Frame.png" alt="Logo Acertpix" loading="lazy" srcset="https://acertpix.com.br/wp-content/uploads/2022/06/Frame.png 775w, https://acertpix.com.br/wp-content/uploads/2022/06/Frame-300x74.png 300w, https://acertpix.com.br/wp-content/uploads/2022/06/Frame-768x188.png 768w" sizes="(max-width: 775px) 100vw, 775px">
                     </a>
-                    <div class="d-flex align-items-center" style="width: 580px; height: 101px">
-                        <a href="https://acertpix.com.br" class="fonte-estilo-roboto text-white text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">Início</a>
-                        <a href="https://acertpix.com.br/sobre/" class="fonte-estilo-roboto text-white text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">A Acertpix</a>
-                        <a href="https://acertpix.com.br/solucoes/" class="fonte-estilo-roboto text-white text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">Soluções</a>
-                        <a href="https://acertpix.com.br/trabalhe-conosco/" class="fonte-estilo-roboto text-white text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">Trabalhe conosco</a>
-                        <a href="https://acertpix.com.br/blog/" class="fonte-estilo-roboto text-white text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">Blog</a>
+                    <div id="nav" class="">
+                        <button id="btn-mobile">
+                            <span id="humburgher"></span>
+                        </button>
+                        
+                        <ul id="menu" class="menu-navegacao">
+                            <li><a href="https://acertpix.com.br" class="fonte-estilo-roboto text-decoration-none" id="inicio" style="font-size: 15px; margin: 14px;" aria-current="page">Início</a></li>
+                            <li><a href="https://acertpix.com.br/sobre/" class="fonte-estilo-roboto text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">A Acertpix</a></li>
+                            <li><a href="https://acertpix.com.br/solucoes/" class="fonte-estilo-roboto text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">Soluções</a></li>
+                            <li><a href="https://acertpix.com.br/trabalhe-conosco/" class="fonte-estilo-roboto text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">Trabalhe conosco</a></li>
+                            <li><a href="https://acertpix.com.br/blog/" class="fonte-estilo-roboto text-decoration-none" style="font-size: 15px; margin: 14px;" aria-current="page">Blog</a></li>
+                        </ul>
+                       
                     </div>
-                    <div class="d-flex align-items-center" style="width: 211px; height: 101px">
+                    <div class="div-button-contato display-none-mobile" style="width: 211px; height: 101px">
                         <a href="https://acertpix.com.br/fale-conosco" class="fonte-estilo-roboto button-contato" role="button">Entre em contato</a>
                     </div>
                     @*<a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">Calculadora ROI</a>*@
 
-                    <div class="d-flex align-items-center" style="width: 137.81px; height: 101px;">
+                    <div class="div-icones display-none-mobile" style="width: 137.81px; height: 101px;">
                         <a class="text-decoration-none text-white me-1" href="https://www.facebook.com/acertpixbiodoc/" target="_blank">
                             <i class="fa-brands fa-facebook" style="background-color: #1F1E71; padding: 6.5px; border-radius: 3px"></i>
                         </a>
@@ -47,25 +54,10 @@
             </div>
         </nav>
     </header>
-    <div class="d-flex m-auto" style="background-color: #1F1E71;">
-        <div class="w-50 d-flex flex-column align-items-center justify-content-center ms-5">
-            <div>
-                <p class="text-white fonte-inter"><b><img draggable="false" role="img" class="emoji" alt="👋" style="width: 16px;" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f44b.svg"> NOSSAS SOLUÇÔES</b></p>
-                <h1 class="text-white mt-4" style="font-size: 46px; line-height: 80px;">Calculadora de ROI</h1>
-                <p class="text-white fonte-inter">Preenche o formulário ao lado e receba um saiba quanto é o seu ROI</p>
-            </div>
-        </div>
-        <div class="w-50">
-            <img class="" style="width: 534.88px; height: 463.13px;" src="./img/Foto para capa.png" />
-        </div>
-    </div>
-    <div class="alert alert-success alert-dismissible fade show mt-2" id="alertaSucesso" style="display: none;">
-        <strong>Successo!</strong> @TempData["sucesso"]
-        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-    </div>
+
 
     <div class="container-fundo">
-        <div class="container">
+        <div class="container m-0 p-0 d-flex">
             <main role="main" class="pb-3">
                 @RenderBody()
             </main>
@@ -73,7 +65,7 @@
     </div>
 
 
-    <footer class="d-flex text-white justify-content-evenly p-5 border-top border-white" data-id="76df16bd" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+    <footer class="rodape p-5 border-top border-white" data-id="76df16bd" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
         <div>
             <div>
                 <div class="mb-4">
@@ -102,7 +94,7 @@
             <a href="https://acertpix.com.br/blog/" class="fonte-estilo-roboto text-white text-decoration-none mb-1" style="font-size: 15px;" aria-current="page">Blog</a>
             <a href="https://acertpix.com.br/fale-conosco/" class="fonte-estilo-roboto text-white text-decoration-none mb-1" style="font-size: 15px;" aria-current="page">Contato</a>
         </div>
-        <div style="margin-left: .8em;">
+        <div>
             <div class="">
                 <h4 class="h5">Contato</h4>
             </div>
@@ -125,6 +117,7 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/lib/inputmask/dist/jquery.inputmask.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/menu-humburgher.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 
 

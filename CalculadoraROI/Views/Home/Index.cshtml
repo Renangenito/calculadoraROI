@@ -3,15 +3,31 @@
 @{
     ViewData["Title"] = "Index";
 }
-
-<div class="row d-flex flex-row justify-content-between">
-    <div class="video mt-5 mb-5 " style="max-width: 750px; max-height: 500px;">
-     <p class="text-info fonte-inter"><b><img draggable="false" role="img" class="emoji" alt="👋" style="width: 16px;" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f44b.svg"> SOLUÇÔES</b></p>
-     <h2 class="fonte-estilo-roboto h2" style="color: #121212;">Conheça Atena, a inteligência artificial da Acertpix.</h2>
+<div class="capa-banner m-auto" style="background-color: #1F1E71; width: 100vw">
+    <div class="texto-banner">
+        <div>
+            <p class="text-white fonte-inter"><b><img draggable="false" role="img" class="emoji" alt="👋" style="width: 16px;" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f44b.svg"> NOSSAS SOLUÇÔES</b></p>
+            <h1 class="text-white mt-4 titulo-principal" >Calculadora de ROI</h1>
+            <p class="text-white fonte-inter lado">Preenche o formulário ao lado e receba um saiba quanto é o seu ROI</p>
+            <p class="text-white fonte-inter baixo">Preenche o formulário abaixo e receba um saiba quanto é o seu ROI</p>
+        </div>
+    </div>
+    <div class="w-50">
+        <img class="imagem-capa" src="./img/Foto para capa.png" />
+    </div>
+</div>
+<div class="alert alert-success alert-dismissible fade show mt-2" id="alertaSucesso" style="display: none;">
+    <strong>Successo!</strong> @TempData["sucesso"]
+    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+</div>
+<div class="row div-texto-atena">
+    <div class="video mt-5 mb-5 " style="max-width: 600px; max-height: 400px;">
+        <p class="text-info fonte-inter"><b><img draggable="false" role="img" class="emoji" alt="👋" style="width: 16px;" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f44b.svg"> SOLUÇÔES</b></p>
+        <h2 class="fonte-estilo-roboto h2" style="color: #121212;">Conheça Atena, a inteligência artificial da Acertpix.</h2>
         <iframe class="mt-5" width="100%" height="100%" src="https://www.youtube.com/embed/vlW63OfDxh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-    <div class="col-md-4 rounded p-5 mt-5" style="background-color: #ffffff; border: 2px solid #CCCCCC">
+    <div class="col-md-4 rounded div-form-calculadora" style="background-color: #ffffff; border: 2px solid #CCCCCC; max-width: 420px;">
         <h5 class="fw-bold">Calculadora - ROI</h5>
         <p class="fw-bold" style="color: #938f8f; font-size: 0.8em; ">Preencha os campos abaixo e nosso time entrará em contato enviando o cálculo via email:</p>
         <form asp-action="Index">
@@ -21,23 +37,23 @@
 
             <div class="form-group">
                 <label asp-for="Nome" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <input asp-for="Nome" class="form-control border-0 p-0 mb-3" style="background-color: #e5e5e5;" />
+                <input asp-for="Nome" class="form-control border-0 p-0 mb-2" style="background-color: #e5e5e5;" />
                 <span asp-validation-for="Nome" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Email" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <input asp-for="Email" type="email" class="form-control border-0 p-0 mb-3" style="background-color: #e5e5e5;" />
+                <input asp-for="Email" type="email" class="form-control border-0 p-0 mb-2" style="background-color: #e5e5e5;" />
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Empresa" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <input asp-for="Empresa" class="form-control border-0 p-0 mb-3" style="background-color: #e5e5e5;" />
+                <input asp-for="Empresa" class="form-control border-0 p-0 mb-2" style="background-color: #e5e5e5;" />
                 <span asp-validation-for="Empresa" class="text-danger"></span>
             </div>
 
             <div class="form-group d-flex flex-column">
                 <label asp-for="Segmento" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <select asp-for="Segmento" class="border-0 p-0 mb-3" style="background-color: #e5e5e5; outline: 0; color: #666666;">
+                <select asp-for="Segmento" class="border-0 p-0 mb-2" style="background-color: #e5e5e5; outline: 0; color: #666666;">
                     <option disabled selected value="segmento">Selecione</option>
                     <option value="Financeiro">Financeiro</option>
                     <option value="Varejo">Varejo</option>
@@ -50,7 +66,7 @@
 
             <div class="form-group d-flex flex-column">
                 <label asp-for="AreaAtuacao" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <select asp-for="AreaAtuacao" class="border-0 p-0 mb-3" style="background-color: #e5e5e5; outline: 0; color: #666666;">
+                <select asp-for="AreaAtuacao" class="border-0 p-0 mb-2" style="background-color: #e5e5e5; outline: 0; color: #666666;">
                     <option disabled selected value="Área de Atuacao">Selecione</option>
                     <option value="Nacional">Nacional</option>
                     <option value="AC">AC</option>
@@ -85,18 +101,18 @@
 
             <div class="form-group d-flex flex-column">
                 <label asp-for="Onboarding" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <select asp-for="Onboarding" class="border-0 p-0 mb-3" style="background-color: #e5e5e5; outline: 0; color: #666666;">
+                <select asp-for="Onboarding" class="border-0 p-0 mb-2" style="background-color: #e5e5e5; outline: 0; color: #666666;">
                     <option disabled selected value="onboarding">Selecione</option>
                     <option value="Físico + Digital">Físico + Digital</option>
                     <option value="Físico"> Físico</option>
                     <option value="Digital">Digital</option>
                 </select>
             </div>
-            <hr class="mt-4 mb-4" />
-            
+            <hr class="mt-1 mb-1" />
+
             <div class="form-group d-flex flex-column">
                 <label asp-for="ConsultaMes" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <select asp-for="ConsultaMes" class="border-0 p-0 mb-3" style="background-color: #e5e5e5; outline: 0; color: #666666;">
+                <select asp-for="ConsultaMes" class="border-0 p-0 mb-2" style="background-color: #e5e5e5; outline: 0; color: #666666;">
                     <option disabled selected value="consultaMes">Selecione</option>
                     <option value="100">100</option>
                     <option value="200">200</option>
@@ -112,7 +128,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="TicketMedio" class="control-label pb-1" style="font-size: 0.8em; color: #666666;"></label>
-                <input asp-for="TicketMedio" id="money" class="money form-control border-0 p-0 mb-3 " style="background-color: #e5e5e5;" />
+                <input asp-for="TicketMedio" id="money" class="money form-control border-0 p-0 mb-2" style="background-color: #e5e5e5;" />
                 <span asp-validation-for="TicketMedio" class="text-danger"></span>
             </div>
 
