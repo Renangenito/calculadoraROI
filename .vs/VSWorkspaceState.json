@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CalculadoraROI",
+    "\\CalculadoraROI\\Models"
   ],
-  "SelectedNode": "\\CalculadoraROI.sln",
+  "SelectedNode": "\\CalculadoraROI\\Models\\Calculadora.cs",
   "PreviewInSolutionExplorer": false
 }
